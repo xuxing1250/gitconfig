@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/e/xx/Project/BluetoothMusic/src'
+let g:netrw_dirhist_2='/e/xx/Project/BluetoothMusic/src/com'
+let g:netrw_dirhist_3='/e/xx/Project/BluetoothMusic/src/com/spreadwin'
+let g:netrw_dirhist_4='/e/xx/Project/BluetoothMusic/src/com/spreadwin/btc'
+let g:netrw_dirhist_5='/e/xx/Project/BluetoothMusic/src/com/spreadwin/btc/utils'
+let g:netrw_dirhist_6='/e/xx/Project/BluetoothMusic/src/com/spreadwin/btc'
+let g:netrw_dirhist_7='/e/xx/Project/BluetoothMusic/src/com/spreadwin/btc/utils'
+let g:netrw_dirhist_8='/e/xx/Project/BluetoothMusic/src/com/spreadwin/btc'
+let g:netrw_dirhist_9='/e/xx/Project/BluetoothMusic/src/com/spreadwin/btc/Music'
